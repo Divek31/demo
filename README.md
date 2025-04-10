@@ -1,4 +1,4 @@
 # demo
 This is my first Git repository 
 <br>
-Author-Divek kumar
+Author-Divek kumar (College)
